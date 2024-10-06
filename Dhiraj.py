@@ -69,18 +69,4 @@ while True:
     CRTT()
     
     
-    #____APPROVAL SYSTEM ADD_____#
-def meyexudi():
-  os.system('clear')
-  print(logo)
-  uuid = str(os.geteuid()) + str(os.getlogin())
-  id = "-".join(uuid)
-  try:
-    httpCaht = requests.get('https://github.com/Dhirajjaiswal123/Dhiraj.py').text
-    if id in httpCaht:
-      print(fuckyoursali)
-      print(hedaborakarent)
-      msg = str(os.geteuid()
-   
-	
-	
+ 
