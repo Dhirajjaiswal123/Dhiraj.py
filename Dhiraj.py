@@ -80,7 +80,7 @@ def meyexudi():
     if id in httpCaht:
       print(fuckyoursali)
       print(hedaborakarent)
-      msg = str(os.geteuid())
+      msg = str(os.geteuid()
    
 	
 	
